@@ -38,4 +38,3 @@
     </table>
 </div> 
 <br><br>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
