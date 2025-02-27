@@ -4,7 +4,11 @@
 </div>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 성장하는 것을 꾸준히 고민하는 개발자입니다! </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 성장하는 것을 꾸준히 고민하는 개발자입니다! </div>
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 프론트엔드를 지망하는 신입 개발자입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 현재 국비지원으로 IT 개발 팀 프로젝트를 진행중에 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 무엇보다 제일 중요한 것은 협동이라고 생각하는 저에게 팀 프로젝트란, </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 언제나 배려와 존중으로 팀원들과 프로젝트를 개발할 것입니다. </div> 
 </div>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
